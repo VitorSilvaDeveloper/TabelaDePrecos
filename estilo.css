@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+#gratis {
+    background: white;
+    text-align: center;
+    width: 200px;
+    padding: 100px;
+}
+
+.price {
+    border-radius: 20px;
+    color: white;
+    padding: 20px;
+    background: #9D2AF9;
+    padding-bottom: 25px;
+}
+
+#principal {
+    display: flex;
+    padding: 20px;
+    
+
+}
+
+.pacotes {
+
+    padding-bottom: 5px;
+
+}
+
+li {
+    padding-top: 5px;
+    line-height: 40px;
+}
+
+button {
+    border-radius: 25px;
+    color: white;
+    padding: 15px;
+    background-color: #9D2AF9;
+    border: none;
+}
+
+button:hover {
+    background-color: #724AE0;
+}
+
+button:active {
+    color: black;
+    border: none;
+}
+button:focus {
+    outline-style: none;
+}
